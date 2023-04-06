@@ -9,5 +9,5 @@ int main()
 
     wchar_t wstr[] = L"대한민국";
     int wlength = sizeof(wstr);
-    wcout << wstr << wlength << endl;
+    wcout << str << wlength << endl;
 }
