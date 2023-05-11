@@ -6,7 +6,7 @@ int main(){
     int a = 0;
     int b = 1;
 
-    if(0){
+    if(1){
         SWAP(a, b);
     }
     
